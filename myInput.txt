@@ -1,0 +1,1 @@
+/cs/student/luis_valdivia/cs8/lab05/myInput.txt
